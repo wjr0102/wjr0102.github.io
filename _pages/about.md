@@ -14,28 +14,20 @@ My current research focuses on video analytics in heterogeneous CPU-GPU systems.
 
 Education
 ======
-- Ph.D. of Data Analysis 
+- Ph.D. of Data Analysis  
+  Jul.2020 - Till Now  
+  Southern University of Science and Technology, SUSTech  
+  Univeristy of Technology, Sydney, UTS
 
-Jul.2020 - Till Now
-
-Southern University of Science and Technology, SUSTech
-
-Univeristy of Technology, Sydney, UTS
-
-
-- Bachelor of Computer Science and Engineering
-
-Sept. 2015 - Jun. 2019
-
-Southern University of Science and Technology, SUSTech
+- Bachelor of Computer Science and Engineering  
+  Sept. 2015 - Jun. 2019  
+  Southern University of Science and Technology, SUSTech
 
 Publications
 ======
-Towards Privacy Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing
-
-Mingzhe Li, **Jingrou Wu**, Wei Wang* and Jin Zhang*
-
-IEEE Internet of Things Journal, accepted for publication in a future issue
+- Towards Privacy Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing  
+  Mingzhe Li, **Jingrou Wu**, Wei Wang* and Jin Zhang*  
+  IEEE Internet of Things Journal, accepted for publication in a future issue
 
 Teaching Assistantship
 ======
@@ -46,6 +38,5 @@ Teaching Assistantship
 
 Hobbies
 ======
-Reading
-
-Basketball
+- Reading
+- Basketball
