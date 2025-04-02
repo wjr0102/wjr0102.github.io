@@ -10,7 +10,7 @@ redirect_from:
 
 I am a joint Ph.D student of the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), and the School of Computer Science, Univeristy of Technology, Sydney (UTS), superviced by Asist. Prof. [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and co-superviced by Dr. [Jing Jiang](https://profiles.uts.edu.au/Jing.Jiang/about). I received my B.E degree in computer scinece and engineering from the SUSTech.
 
-My current research focuses on video analytics in heterogeneous CPU-GPU systems. I am also interested in network economics and game theory in crowdsourcing and blockchain.
+My current research focuses on volumetric video streaming. My previous research interest includes video analytics in heterogeneous CPU-GPU systems and game theory in crowdsourcing and blockchain.
 
 Education
 ======
@@ -25,9 +25,15 @@ Education
 
 Publications
 ======
+- Matching with Externalities for Device Assignment in IoT Sharding Blockchain  
+  **Jingrou Wu** and Jin Zhang*  
+  International Conference on Edge Computing and IoT, 2021
+- Committee Selection Based on Game Theory in Sharding Blockchain  
+  **Jingrou Wu** and Jin Zhang*  
+  International Conference on Edge Computing and IoT, 2021
 - Towards Privacy Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing  
   Mingzhe Li, **Jingrou Wu**, Wei Wang* and Jin Zhang*  
-  IEEE Internet of Things Journal, accepted for publication in a future issue
+  IEEE Internet of Things Journal, vol. 8, no. 18, pp. 13991-14002, 2021
 
 Teaching Assistantship
 ======
