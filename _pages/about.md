@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a joint Ph.D student of the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), and the School of Computer Science, Univeristy of Technology, Sydney (UTS), superviced by Asist. Prof. [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and co-superviced by Dr. [Jing Jiang](https://profiles.uts.edu.au/Jing.Jiang/about). I received my B.E degree in computer scinece and engineering from the SUSTech.
+I am a joint Ph.D student of the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), and the School of Computer Science, Univeristy of Technology, Sydney (UTS), superviced by A/Prof. [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and co-superviced by A/Prof. [Jing Jiang](https://profiles.uts.edu.au/Jing.Jiang/about). I received my B.E degree in computer scinece and engineering from the SUSTech.
 
-My current research focuses on volumetric video streaming. My previous research interest includes video analytics in heterogeneous CPU-GPU systems and game theory in crowdsourcing and blockchain.
+My current research focuses on volumetric video streaming. My previous research interest includes video analytics in heterogeneous CPU-GPU systems and game theory in crowdsourcing and blockchain. I am currently completing my Ph.D. and **open to postdoctoral opportunities related to volumetric video streaming, immersive multimedia, or real-time adaptive systems**.
 
 Education
 ======
@@ -25,13 +25,16 @@ Education
 
 Publications
 ======
-- Matching with Externalities for Device Assignment in IoT Sharding Blockchain  
+- [Gemini+: Enhancing Real-Time Video Analytics with Dual-Image FPGAs](https://ieeexplore.ieee.org/document/10950385)
+  **Jingrou Wu**, Chuang Hu, Jin Zhang, Dan Wang, Jing Jiang
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access
+- [Matching with Externalities for Device Assignment in IoT Sharding Blockchain](https://link.springer.com/chapter/10.1007/978-3-031-04231-7_4)  
   **Jingrou Wu** and Jin Zhang*  
   International Conference on Edge Computing and IoT, 2021
-- Committee Selection Based on Game Theory in Sharding Blockchain  
+- [Committee Selection Based on Game Theory in Sharding Blockchain](https://link.springer.com/chapter/10.1007/978-3-031-04231-7_2)  
   **Jingrou Wu** and Jin Zhang*  
   International Conference on Edge Computing and IoT, 2021
-- Towards Privacy Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing  
+- [Towards Privacy Preserving Task Assignment for Fully Distributed Spatial Crowdsourcing](https://ieeexplore.ieee.org/document/9390177)  
   Mingzhe Li, **Jingrou Wu**, Wei Wang* and Jin Zhang*  
   IEEE Internet of Things Journal, vol. 8, no. 18, pp. 13991-14002, 2021
 
