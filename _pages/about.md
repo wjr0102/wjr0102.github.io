@@ -27,7 +27,7 @@ Publications
 ======
 - P$^2$VS: Progressive Partition-based Volumetric Video Streaming under Network Dynamics  
   **Jingrou Wu**, Haoxian Liu, Jin Zhang*, Dan Wang, Jing Jiang  
-  ACM Multimedia, 2025 (to appear)
+  ACM Multimedia, 2025, To Appear
 - [Gemini+: Enhancing Real-Time Video Analytics with Dual-Image FPGAs](https://ieeexplore.ieee.org/document/10950385)  
   **Jingrou Wu**, Chuang Hu*, Jin Zhang*, Dan Wang, Jing Jiang  
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access
