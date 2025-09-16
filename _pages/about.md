@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a joint Ph.D student of the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), and the School of Computer Science, Univeristy of Technology, Sydney (UTS), superviced by A/Prof. [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and co-superviced by A/Prof. [Jing Jiang](https://profiles.uts.edu.au/Jing.Jiang/about). I received my B.E degree in computer scinece and engineering from the SUSTech.
+I am a joint Ph.D of the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), and the School of Computer Science, Univeristy of Technology, Sydney (UTS), superviced by A/Prof. [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and co-superviced by A/Prof. [Jing Jiang](https://profiles.uts.edu.au/Jing.Jiang/about). I received my B.E degree in computer scinece and engineering from the SUSTech.
 
-My current research focuses on volumetric video streaming. My previous research interest includes video analytics in heterogeneous CPU-GPU systems and game theory in crowdsourcing and blockchain. I am currently completing my Ph.D. and **open to postdoctoral opportunities related to volumetric video streaming, immersive multimedia, or real-time adaptive systems**.
+My current research focuses on volumetric video streaming. My previous research interest includes video analytics in heterogeneous CPU-GPU systems and game theory in crowdsourcing and blockchain. I am **open to postdoctoral opportunities related to volumetric video streaming, immersive multimedia, or real-time adaptive systems**.
 
 Education
 ======
@@ -25,6 +25,9 @@ Education
 
 Publications
 ======
+- [PLiCat: Decoding protein-lipid interactions by large language model](https://www.biorxiv.org/content/10.1101/2025.09.09.675043v1)  
+  Feitong Dong, **Jingrou Wu**  
+  bioRxiv 2025.09.09.675043, 2025
 - P$^2$VS: Progressive Partition-based Volumetric Video Streaming under Network Dynamics  
   **Jingrou Wu**, Haoxian Liu, Jin Zhang*, Dan Wang, Jing Jiang  
   ACM Multimedia, 2025, To Appear
