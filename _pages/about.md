@@ -14,8 +14,8 @@ My current research focuses on volumetric video streaming. My previous research 
 
 Education
 ======
-- Ph.D. of Data Analysis  
-  Jul.2020 - Till Now  
+- Ph.D. of Analytics  
+  Jul.2020 - Sep.2025  
   Southern University of Science and Technology, SUSTech  
   Univeristy of Technology, Sydney, UTS
 
@@ -53,5 +53,5 @@ Teaching Assistantship
 
 Hobbies
 ======
-- Reading
+- Reading and Writing
 - Basketball
