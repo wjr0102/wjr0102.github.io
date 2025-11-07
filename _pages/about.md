@@ -28,9 +28,9 @@ Publications
 - [PLiCat: Decoding protein-lipid interactions by large language model](https://www.biorxiv.org/content/10.1101/2025.09.09.675043v1)  
   Feitong Dong, **Jingrou Wu**  
   bioRxiv 2025.09.09.675043, 2025
-- P$^2$VS: Progressive Partition-based Volumetric Video Streaming under Network Dynamics  
+- [P$^2$VS: Progressive Partition-based Volumetric Video Streaming under Network Dynamics](https://dl.acm.org/doi/abs/10.1145/3746027.3755403)  
   **Jingrou Wu**, Haoxian Liu, Jin Zhang*, Dan Wang, Jing Jiang  
-  ACM Multimedia, 2025, To Appear
+  ACM Multimedia, 2025
 - [Gemini+: Enhancing Real-Time Video Analytics with Dual-Image FPGAs](https://ieeexplore.ieee.org/document/10950385)  
   **Jingrou Wu**, Chuang Hu*, Jin Zhang*, Dan Wang, Jing Jiang  
   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access
